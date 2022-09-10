@@ -8,6 +8,7 @@ public class Test {
 		
 		
 			System.out.println(x+y);
+			System.out.println(x*y);
 			System.out.println("the is x =" +  x);
 			System.out.println("ssss");
 	
