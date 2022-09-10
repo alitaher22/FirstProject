@@ -10,7 +10,7 @@ public class Test {
 		
 
 			int w =x+Ay;
-			System.out.println(x*Ay);
+			System.out.println("connected with sql");
 
 			System.out.println(x+Ay);
 
