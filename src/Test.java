@@ -11,7 +11,8 @@ public class Test {
 
 			int w =x+Ay;
 			System.out.println("connected with sql");
-
+			System.out.println("create query");
+			System.out.println("create table");
 			System.out.println(x+Ay);
 
 			System.out.println("the is x =" +  x);
