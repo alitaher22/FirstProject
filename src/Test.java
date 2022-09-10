@@ -4,10 +4,11 @@ public class Test {
 	public static void main(String[] args) {
 		
 		int x=9;
-		int y=10;
+		//you have to change this var to Ay
+		int Ay=10;
 		
 		
-			System.out.println(x+y);
+			System.out.println(x+Ay);
 			System.out.println("the is x =" +  x);
 			System.out.println("ssss");
 	
